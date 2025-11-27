@@ -58,4 +58,4 @@ ce-ambition-manipulator-quarrel-desc = Can I make !NAME1! and !NAME2! fight with
 ce-ambition-manipulator-friend-desc = Can I make !NAME1! and !NAME2! become close friends?
 
 ce-ambition-support-name = Support
-ce-ambition-support-desc = Because of that !REASON!, I would like !NAME! to be okay.
+ce-ambition-support-desc = Because of !REASON!, I would like !NAME! to be okay.
