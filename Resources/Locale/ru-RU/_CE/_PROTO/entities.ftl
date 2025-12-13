@@ -113,8 +113,8 @@ ent-CEClothingHeadHelmetGuardCorinthian = коринфский шлем стра
 ent-CEClothingHeadHelmetInvestigator = шлем дознавателя
     .desc = Специализированный шлем, носимый дознавателя. Разработан для защиты при сохранении видимости и мобильности.
 
-ent-CEClothingHeadMetalHeadband = металлический головной убор
-    .desc = Простой, но эффективный металлический головной убор, обеспечивающий минимальную защиту и порядок волос.
+ent-CEClothingHeadMetalHeadband = металлический обруч
+    .desc = Простой, но эффективный металлический обруч, обеспечивающий минимальную защиту и порядок волос.
 
 ent-CEClothingHeadAmanitaHelmet = шлем аманиты
     .desc = Необычный шлем в форме гриба аманиты.
@@ -230,16 +230,16 @@ ent-CEClothingShirtDressRed = красное платье
 ent-CEClothingShirtDressWhiteBlue = бело-синее платье
     .desc = Элегантное платье, сочетающее белый и синий в изысканном узоре.
 
-ent-CEClothingShirtDressWhiteBlue2 = бело-синее платье, вариант 2
+ent-CEClothingShirtDressWhiteBlue2 = бело-синее платье
     .desc = Ещё одна прекрасная вариация дизайна бело-синего платья.
 
 ent-CEClothingShirtDressWhiteBrown = бело-коричневое платье
     .desc = Классическое платье, сочетающее белый и коричневый земляные тона.
 
-ent-CEClothingShirtDressWhiteBrown2 = бело-коричневое платье, вариант 2
+ent-CEClothingShirtDressWhiteBrown2 = бело-коричневое платье
     .desc = Утончённая вариация стиля бело-коричневого платья.
 
-ent-CEClothingShirtDressWhiteBrown3 = бело-коричневое платье, вариант 3
+ent-CEClothingShirtDressWhiteBrown3 = бело-коричневое платье
     .desc = Третья элегантная вариация дизайна бело-коричневого платья.
 
 ent-CEClothingShirtDressWhiteCollar = белое платье с воротником
@@ -408,7 +408,7 @@ ent-CESpawnPointFarmer = фермер
 
 ent-CESpawnPointBard = бард
 
-ent-CESpawnPointTownfolk = жители города
+ent-CESpawnPointTownfolk = горожанин
 
 ent-CEMobCarcat = { ent-CEBaseMobCarcat }
 
@@ -618,7 +618,7 @@ ent-CEAsh30 = { ent-CEAsh1 }
     .desc = { ent-CEAsh1.desc }
     .suffix = 30
 
-ent-CEIronBar1 = железный брусок
+ent-CEIronBar1 = железный слиток
     .desc = Тяжёлый кусок рафинированного железа
     .suffix = 1
 
@@ -630,7 +630,7 @@ ent-CEIronBar10 = { ent-CEIronBar1 }
     .desc = { ent-CEIronBar1.desc }
     .suffix = 10
 
-ent-CEBrassBar1 = латунный брусок
+ent-CEBrassBar1 = латунный слиток
     .desc = Секрет того, как производится этот металл, со временем был потерян, но это только делает его более ценным: это единственный металл, который может изолировать arcane energy, и без него большинство современных технологий были бы невозможны.
     .suffix = 1
 
@@ -1041,8 +1041,8 @@ ent-CESpoon = ложка
 ent-CEWeaponDaggerIron = железный кинжал
     .desc = Стандартный кинжал из железа.
 
-ent-CEWeaponDaggerHatchet = топорик
-    .desc = Маленький топорик, обычно используемый как кухонный инструмент для подготовки еды.
+ent-CEWeaponDaggerHatchet = тесак
+    .desc = Маленький тесак, обычно используемый как кухонный инструмент для подготовки еды.
 
 ent-CEWeaponDaggerSickle = серп
     .desc = Изогнутое лезвие, используемое для сбора урожая, но может быть смертельным в опытных руках.
@@ -1087,7 +1087,7 @@ ent-CEFryingPan = сковорода
 ent-CEPlatePie = форма для пирога
     .desc = Форма для изготовления вкусного пирога.
 
-ent-CEBaseLockpick = железный монтировочный инструмент
+ent-CEBaseLockpick = отмычка
     .desc = Инструмент вора, который при надлежащем мастерстве позволяет вскрыть любой замок.
 
 ent-CEKeyFile = напильник для ключа
@@ -1971,8 +1971,8 @@ ent-CEClothingCapeBarbarian = плащ варвара
 ent-CEClothingCapeFur = меховой плащ
     .desc = Тёплый меховой плащ, идеальный для холодного климата.
 
-ent-CEClothingCapeFur2 = вариант мехового плаща
-    .desc = Вторичный стиль мехового плаща с другим рисунком меха.
+ent-CEClothingCapeFur2 = меховой плащ
+    .desc = Меховой плаща с другим рисунком меха.
 
 ent-CEClothingCloakBlue = синий плащ
     .desc = Простой синий плащ для повседневных путешествий и защиты.
@@ -2022,17 +2022,17 @@ ent-CEClothingCloakHaori = хаори
 ent-CEClothingCloakMaidApron = фартук горничной
     .desc = Аккуратный фартук, обычно носимый горничными и домашним персоналом.
 
-ent-CEClothingRaincoatAlchemist = дождевик алхимика
-    .desc = Защитный дождевик, используемый алхимиками для защиты реагентов от погоды.
+ent-CEClothingRaincoatAlchemist = накидка алхимика
+    .desc = Защитная накидка, используемый алхимиками для защиты реагентов от погоды.
 
-ent-CEClothingRaincoatGreen = зелёный дождевик
-    .desc = Водонепроницаемый зелёный дождевик для повседневного использования.
+ent-CEClothingRaincoatGreen = зелёная накидка
+    .desc = Водонепроницаемая зелёная накидка для повседневного использования.
 
-ent-CEClothingRaincoatGuard = дождевик стражника
-    .desc = Усиленный дождевик, выдаваемый стражникам для защиты от погоды во время дежурства.
+ent-CEClothingRaincoatGuard = накидка стражника
+    .desc = Усиленная накидка, выдаваемый стражникам для защиты от погоды во время дежурства.
 
-ent-CEClothingRaincoatWhite = белый дождевик
-    .desc = Чистый белый дождевик, обычно используемый профессионалами, требующими опрятного внешнего вида.
+ent-CEClothingRaincoatWhite = белая накидка
+    .desc = Чистая белая накидка, обычно используемый профессионалами, требующими опрятного внешнего вида.
 
 ent-CEClothingShirtSyurkoBlack = чёрное сюрко
     .desc = Традиционный плащ сюрко в чёрном цвете.
@@ -2057,10 +2057,10 @@ ent-CEClothingShirtSyurkoYellow = жёлтое сюрко
 
 ent-CEBaseMobSpeciesOrganic = None
 
-ent-CEFoodTomatoes = помидоры
+ent-CEFoodTomatoes = помидор
     .desc = Красный, сочный помидор. Вы просто хотите швырнуть его кому-то в лицо!
 
-ent-CEBloodEssence = кровавая сущность
+ent-CEBloodEssence = кровавая эссенция
     .desc = Сущность жизни, извлечённая силой. Только настоящие вампиры знают, как её использовать.
     .suffix = 1
 
