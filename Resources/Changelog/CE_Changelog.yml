@@ -41,3 +41,10 @@
   id: 1004
   time: '2025-12-17T22:30:05.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/138
+- author: TheShuEd
+  changes:
+  - message: Added automated changelogs, try 6
+    type: Add
+  id: 1005
+  time: '2025-12-17T22:35:45.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/139
