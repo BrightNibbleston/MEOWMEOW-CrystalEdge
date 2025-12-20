@@ -107,3 +107,19 @@
   id: 1012
   time: '2025-12-19T15:47:41.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/103
+- author: TheShuEd
+  changes:
+  - message: Added Golden Peacemaker, a unique weapon that is the target of a thief's
+      theft
+    type: Add
+  - message: Added a precious soup cup
+    type: Add
+  - message: Added a hiding place for the thief
+    type: Add
+  - message: Added a skill for the thief that allows him to track down jewels
+    type: Add
+  - message: Added skills for the thief related to pickpocketing
+    type: Add
+  id: 1013
+  time: '2025-12-20T13:31:03.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/149
