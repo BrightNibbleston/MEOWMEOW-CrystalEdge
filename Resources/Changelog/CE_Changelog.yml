@@ -210,3 +210,16 @@
   id: 1021
   time: '2025-12-23T12:13:38.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/193
+- author: TheShuEd
+  changes:
+  - message: Coal & Coal ore walls has been added. Also can be buyed in store.
+    type: Add
+  - message: Iron ore walls added.
+    type: Add
+  - message: Added automated melting furnace, can be combined with funnels and conveyors.
+    type: Add
+  - message: food and metalls have become much cheaper
+    type: Tweak
+  id: 1022
+  time: '2025-12-24T17:33:39.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/196
