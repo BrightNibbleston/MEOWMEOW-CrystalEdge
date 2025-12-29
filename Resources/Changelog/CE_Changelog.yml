@@ -262,3 +262,11 @@
   id: 1026
   time: '2025-12-29T09:54:36.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/223
+- author: TheShuEd
+  changes:
+  - message: Keys slot was deleted from hotbar. Rounstart keys moved to second belt
+      slot.
+    type: Remove
+  id: 1027
+  time: '2025-12-29T10:51:24.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/224
