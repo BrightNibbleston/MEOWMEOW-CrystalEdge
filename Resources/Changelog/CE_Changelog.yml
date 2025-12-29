@@ -255,3 +255,10 @@
   id: 1025
   time: '2025-12-28T12:08:39.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/205
+- author: Oberfuhrer
+  changes:
+  - message: Fixed workbench unscrewing.
+    type: Fix
+  id: 1026
+  time: '2025-12-29T09:54:36.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/223
