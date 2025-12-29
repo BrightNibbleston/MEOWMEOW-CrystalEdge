@@ -277,3 +277,12 @@
   id: 1028
   time: '2025-12-29T13:36:52.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/225
+- author: Viator-MV
+  changes:
+  - message: Added glasses cloaks and masks!
+    type: Add
+  - message: Now loadout have more clothes!
+    type: Tweak
+  id: 1029
+  time: '2025-12-29T14:28:42.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/203
