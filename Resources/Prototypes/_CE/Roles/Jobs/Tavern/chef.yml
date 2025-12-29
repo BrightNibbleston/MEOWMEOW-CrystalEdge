@@ -12,7 +12,7 @@
 - type: startingGear
   id: CEChefGear
   equipment:
-    keys: CEKeyRingChef
+    belt: CEKeyRingChef
     pocket1: CEWalletFilledChef
 
 

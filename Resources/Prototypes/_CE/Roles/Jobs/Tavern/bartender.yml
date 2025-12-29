@@ -12,7 +12,7 @@
 - type: startingGear
   id: CEBartenderGear
   equipment:
-    keys: CEKeyRingBartender
+    belt: CEKeyRingBartender
     pocket1: CEWalletFilledBartender
 
 
