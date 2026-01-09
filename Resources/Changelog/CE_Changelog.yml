@@ -326,3 +326,11 @@
   id: 1032
   time: '2026-01-08T22:49:29.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/243
+- author: TheShuEd
+  changes:
+  - message: Roadmap added! You can follow the current development plans for the project
+      directly within the game.
+    type: Add
+  id: 1033
+  time: '2026-01-09T11:35:50.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/245
