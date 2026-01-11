@@ -19,7 +19,7 @@
 - type: speechSounds
   id: CECarrin
   saySound:
-    path: /Audio/_CE/Voice/Goblin/goblin_talk3.ogg
+    path: /Audio/_CE/Voice/Carrin/carrin-chirping2.ogg
   askSound:
     path: /Audio/_CE/Voice/Goblin/goblin_talk2.ogg
   exclaimSound:

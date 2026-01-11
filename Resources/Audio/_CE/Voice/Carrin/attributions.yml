@@ -1,4 +1,9 @@
 - files: ["crow-sound_1_CE.ogg"]
   license: "CC-BY-4.0"
   copyright: "Created by antu jara from https://samplefocus.com"
-  source: "https://samplefocus.com/samples/plague-perc-crow?search_id=184530685"
+  source: "https://samplefocus.com/samples/plague-perc-crow?"
+
+- files: [ "carrin-chirping2.ogg" ]
+  license: "CC-BY-4.0"
+  copyright: "Created by Luhv from https://samplefocus.com"
+  source: "https://samplefocus.com/samples/birds-chirping-5bfe83ba-e4be-4558-8f04-f9939d2d5bd0?"

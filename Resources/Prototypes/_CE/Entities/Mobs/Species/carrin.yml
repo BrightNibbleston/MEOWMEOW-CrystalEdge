@@ -67,8 +67,8 @@
       Female: CEUnisexCarrin
       Unsexed: CEUnisexCarrin
   - type: Speech
-    speechSounds: CECaw #TODO: change to carrin sound
-    allowedEmotes: ['Caw']
+    speechSounds: CECarin #TODO: change to carrin sound
+    allowedEmotes: ['CECaw']
   - type: FootstepModifier
     footstepSoundCollection:
       collection: CEStepCarrin

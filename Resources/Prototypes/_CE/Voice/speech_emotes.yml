@@ -9,7 +9,7 @@
     requireAll: true
     components:
     - Vocal
-  chatMessages: ["caws"]
+  chatMessages: ["ce-chat-emote-name-caw"]
   chatTriggers:
   - caw
   - caws
