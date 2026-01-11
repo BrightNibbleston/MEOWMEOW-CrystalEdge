@@ -38,3 +38,19 @@
   sounds:
     Scream:
       path: /Audio/_CE/Voice/Animal/bear_scream.ogg
+
+- type: emoteSounds
+  id: CEUnisexCarrin
+  params:
+    variation: 0.125
+  sounds:
+    Scream:
+      path: /Audio/_CE/Voice/Carcat/carcat_scream.ogg
+    Caw:
+      path: /Audio/_CE/Voice/Carrin/crow-sound_1_CE.ogg
+    Gasp:
+      path: /Audio/_CE/Voice/Carcat/carcat_gasp.ogg
+    DefaultDeathgasp:
+      path: /Audio/_CE/Voice/Carcat/carcat_gasp.ogg
+    Whistle:
+      collection: Whistles

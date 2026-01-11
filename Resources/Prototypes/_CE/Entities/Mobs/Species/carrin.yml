@@ -63,11 +63,12 @@
     state: full
   - type: Vocal
     sounds:
-      Male: CEUnisexCarcat    #TODO: change to carrin sound
-      Female: CEUnisexCarcat
-      Unsexed: CEUnisexCarcat
+      Male: CEUnisexCarrin    #TODO: change to carrin sound
+      Female: CEUnisexCarrin
+      Unsexed: CEUnisexCarrin
   - type: Speech
-    speechSounds: CECarcat #TODO: change to carrin sound
+    speechSounds: CECarrin #TODO: change to carrin sound
+    allowedEmotes: ['Caw']
   - type: FootstepModifier
     footstepSoundCollection:
       collection: CEStepCarrin
