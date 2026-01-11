@@ -24,7 +24,7 @@ public sealed class CELocalizationVisualsSystem : EntitySystem
         foreach (var (map, pDictionary) in visuals.Comp.MapStates)
         {
             if (!pDictionary.TryGetValue(_cfg.GetCVar(CCVars.ServerLanguage), out var state))
-                return;
+                continue;
 
             if (_sprite.LayerMapTryGet((visuals.Owner, sprite), map, out _, false))
                 _sprite.LayerSetRsiState((visuals.Owner, sprite), map, state);
