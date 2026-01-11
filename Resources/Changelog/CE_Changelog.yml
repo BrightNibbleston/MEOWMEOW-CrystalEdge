@@ -381,3 +381,11 @@
   id: 1038
   time: '2026-01-10T16:21:45.0000000+00:00'
   url: https://github.com/crystallpunk-14/crystall-edge/pull/251
+- author: KittyCat432
+  changes:
+  - message: All species now have the correct amount of blood so you wont die from
+      bloodloss as much now.
+    type: Fix
+  id: 1039
+  time: '2026-01-11T09:50:55.0000000+00:00'
+  url: https://github.com/crystallpunk-14/crystall-edge/pull/253
