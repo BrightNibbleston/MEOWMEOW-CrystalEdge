@@ -1,10 +1,10 @@
 
 
 - type: emote
-  id: Caw
-  name: chat-emote-name-caw
+  id: CECaw
+  name: ce-chat-emote-name-caw
   category: Vocal
-  icon: _CE/Interface/Emotes/carrin_emotes.rsi/jojocrow.png
+  icon: _CE/Interface/Emotes/jojocrow.png
   whitelist:
     requireAll: true
     components:
