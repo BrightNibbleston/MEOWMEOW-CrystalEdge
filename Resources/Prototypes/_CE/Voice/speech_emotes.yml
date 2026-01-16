@@ -11,5 +11,8 @@
     - Vocal
   chatMessages: ["ce-chat-emote-name-caw"]
   chatTriggers:
+  # English translation/английский перевод
   - caw
   - caws
+  # Russian translation/русский перевод
+  - карканье
