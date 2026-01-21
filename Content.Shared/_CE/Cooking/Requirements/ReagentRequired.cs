@@ -3,10 +3,10 @@
  * https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT
  */
 
+using Content.Shared._CE.Cooking.Prototypes;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Reagent;
 using Content.Shared.FixedPoint;
-using Content.Shared.Tag;
 using Robust.Shared.Prototypes;
 using YamlDotNet.Serialization.Schemas;
 
@@ -22,7 +22,7 @@ public sealed partial class ReagentRequired : CECookingCraftRequirement
 
     public override bool CheckRequirement(IEntityManager entManager,
         IPrototypeManager protoManager,
-        List<ProtoId<TagPrototype>> placedTags,
+        List<ProtoId<CEFoodTagPrototype>> placedFoodTags,
         Solution? solution = null)
     {
         if (solution is null)
@@ -47,5 +47,23 @@ public sealed partial class ReagentRequired : CECookingCraftRequirement
     public override float GetComplexity()
     {
         return 1;
+    }
+
+    public override string GetGuidebookDescription(IPrototypeManager protoManager)
+    {
+        var names = new List<string>();
+        foreach (var reagentId in Reagents)
+        {
+            if (protoManager.TryIndex(reagentId, out var reagent))
+                names.Add(reagent.LocalizedName);
+            else
+                names.Add(reagentId.Id);
+        }
+
+        var reagents = string.Join(", ", names);
+        return Loc.GetString(
+            "ce-guidebook-cooking-requirement-reagent-required",
+            ("reagents", reagents),
+            ("amount", Amount.ToString()));
     }
 }
