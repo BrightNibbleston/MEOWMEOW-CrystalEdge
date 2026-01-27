@@ -21,6 +21,6 @@
   saySound:
     path: /Audio/_CE/Voice/Carrin/carrin-say-chirping.ogg
   askSound:
-    path: /Audio/_CE/Voice/Carcat/carcat_talk2.ogg
+    path: /Audio/_CE/Voice/Carrin/carrin-say-chirping.ogg
   exclaimSound:
     path: /Audio/_CE/Voice/Carrin/carrin-exclaim-caw.ogg
